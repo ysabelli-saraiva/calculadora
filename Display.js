@@ -11,6 +11,7 @@ class Display {
             dividir: '%',
             multiplicar: 'x',
             subtrair: '-', 
+            elevado: '^'
         }
     }
 

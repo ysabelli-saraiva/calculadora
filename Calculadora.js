@@ -14,4 +14,7 @@ class Calculadora {
     multiplicar(num1, num2) {
         return num1 * num2;
     }
+    elevado(num1, num2) {
+        return Math.pow(num1,num2);
+    }
 } 
