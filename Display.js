@@ -14,12 +14,12 @@ class Display {
         }
     }
 
-    borrar() {
+    apagar() {
         this.valorActual = this.valorActual.toString().slice(0,-1);
         this.imprimirValores();
     }
 
-    borrarTodo() {
+    limparTudo() {
         this.valorActual = '';
         this.valorAnterior = '';
         this.tipoOperacion = undefined;
