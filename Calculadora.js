@@ -1,20 +1,4 @@
 class Calculadora {
-    somar(num1, num2) {
-        return num1 + num2;
-    }
+    // Criar os Metódos
 
-    subtrair(num1, num2) {
-        return num1 - num2;
-    }
-
-    dividir(num1, num2) {
-        return num1 / num2;
-    }
-
-    multiplicar(num1, num2) {
-        return num1 * num2;
-    }
-    elevado(num1, num2) {
-        return Math.pow(num1,num2);
-    }
 } 
